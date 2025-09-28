@@ -6,4 +6,5 @@ If you just want to plot some "percolated map", you can lunch the function displ
 I you want to plot the figure that shows the phenomena of  phase transition, you can lunch Monte_Carlo() (there are two optinal parameters : n the size of the map, q the number of repetitions for averaging).
 
 
-Theroy : You can
+Theroy : 
+You can find slides (in french) which present the matematical theory of percolation and make some demonstration of probability results. You can also find a lot of comparison between mathematical results and simulations. 
